@@ -1,0 +1,11 @@
+name: poke
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+jobs:
+  poke:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Poke frontend server
+      run: curl https://smart-brain-detkova.herokuapp.com/
