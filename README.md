@@ -1,4 +1,4 @@
-# Welcome to face-recognistion app Smart-Brain! :information_desk_person:
+# Welcome to face-recognition app Smart-Brain! :information_desk_person:
 
 ## How to use this project?
 
