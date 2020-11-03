@@ -2,16 +2,14 @@
 
 ## How to use this project?
 
-1. Clone this repository on your PC
-2. Run `npm i`
-3. Run `npm start`
-
-Afterwards play with it, as you can see below in the demo you can **Register**, then **Sign In** and afterwards grab any url with human face and paste it in the bar. As a result you should get a square around the face (aka the face was recognized) and the count number should jump by 1. 
-
-Every time you sucesfully submit url picture of human face and it will be recognized the count will jump by 1 - play with your friends who will get the highest number! :)
+Visit the application [here](https://smart-brain-detkova.herokuapp.com/)
 
 If you want to play around without **Registering** please use following credentials:
 
 `Email: john@gmail.com`
 
 `Password: 123`
+
+You can also **Register** with your own credenatials and then **Sign In**. Once you are logged in grab any image URL with a human face and paste it in the input bar. As a result you should get a square around the face (aka the face was recognized) and the count number should jump by 1. 
+
+Every time you sucessfully submit an image URL of human face, it will be recognized and the count will jump by 1 - play with your friends and see who gets the highest score! :video_game:
