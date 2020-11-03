@@ -11,4 +11,4 @@ Afterwards play with it, as you can see below in the demo you can **Register**, 
 Every time you sucesfully submit url picture of human face and it will be recognized the count will jump by 1 - play with your friends who will get the highest number! :)
 
 
-[![Smart-Brain Demo](https://s8.gifyu.com/images/ezgif.com-gif-maker78d2e47406f557db.gif)](https://gifyu.com/image/RCtt)
+[![Smart Brain Demo](https://s8.gifyu.com/images/smart-brain-demo.gif)](https://gifyu.com/image/RCDd)
